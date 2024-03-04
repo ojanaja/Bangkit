@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Fauzan</string>
+    <string name="my_email">ojanaja03@gmail.com</string>
+
+    <string name="academy_name">Course Name</string>
+    <string name="academy_rate">Course Rate</string>
+    <string name="academy_detail">Course Detail</string>
+    <string name="academy_overview">Description</string>
+
+    <string name="title_detail">Written by \nLevel \nTech \nEstimated \nWebsite \n \nModule </string>
+
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
